@@ -121,7 +121,7 @@ _Version 0.8 - 13.11.2013_
 - lots of small changes in the backend
 - when you go in landscape mode and your screen is too small to display the whole site, you get notified to rotate your phone into portrait mode
 - all onClick and onMousedown in HTML removed and replaced by EventListeners in JavaScript
-- Pacman Canvas now uses ApplicationCache to cache its content, so you can play the game offline!
+- Liquor Pacman now uses ApplicationCache to cache its content, so you can play the game offline!
 
 _Version 0.78 - 05.11.2013_
 
@@ -179,7 +179,7 @@ _Version 0.63 - 29.01.2013_
 _Version 0.62 - 23.01.2013_
 
 - disable zoom on Mobile
-- change name to Pacman Canvas (Alpha)
+- change name to Liquor Pacman (Alpha)
 
 _Version 0.61 - 12.01.2013_
 
