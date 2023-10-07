@@ -327,31 +327,31 @@ function geronimo() {
 		this.getLevelTitle = function () {
 			switch (this.level) {
 				case 2:
-					return '"The chase begins"';
+					return '"Shitwinds are coming"';
 					// activate chase / scatter switching
 				case 3:
-					return '"Inky\s awakening"';
+					return '"Rise of the TIG"';
 					// Inky starts leaving the ghost house
 				case 4:
-					return '"Clyde\s awakening"';
+					return '"Rugpull Mania"';
 					// Clyde starts leaving the ghost house
 				case 5:
-					return '"need for speed"';
+					return '"Sarah ? Where are you ?"';
 					// All the ghosts get faster from now on
 				case 6:
-					return '"hunting season 1"';
+					return '"Liquorupfront on fire"';
 					// TODO: No scatter mood this time
 				case 7:
-					return '"the big calm"';
+					return '"the big calm, before the Shitwinds"';
 					// TODO: Only scatter mood this time
 				case 8:
-					return '"hunting season 2"';
+					return '"Daddy was a Bankrobber"';
 					// TODO: No scatter mood and all ghosts leave instantly
 				case 9:
-					return '"ghosts on speed"';
+					return '"Level 9 ! Nerd !!"';
 					// TODO: Ghosts get even faster for this level
 				case FINAL_LEVEL:
-					return '"The final chase"';
+					return '"The final Shitclock"';
 					// TODO: Ghosts get even faster for this level
 				default:
 					return '"nothing new"';
